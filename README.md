@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there :D
+
+#### You can check out my other profile here: https://github.com/UnladenCoconut
 
 <!--
 **Benkol003/benkol003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
